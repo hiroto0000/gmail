@@ -1,0 +1,5 @@
+    CREATE TABLE mails
+    (id INTEGER PRIMARY KEY AUTOINCREMENT,
+     subject TEXT, 
+     body TEXT,
+     date TIMESTAMP DEFAULT CURRENT_TIMESTAMP);

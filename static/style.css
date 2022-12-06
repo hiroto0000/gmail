@@ -1,0 +1,46 @@
+.main_form{
+    margin: 10px 50px 20px;
+}
+
+.body_form{
+    margin-left:10%
+}
+
+.select_form{
+    width: 80%;
+}
+
+
+.wrapper {
+  display: flex;
+}
+
+.column1{
+    width: 30%;
+}
+
+.column2{
+    width: 50%;
+}
+
+.contents{
+    display: flex;
+    justify-content: space-between;
+    margin-bottom: 50px;
+}
+
+.main_column{
+    margin: 10px 100px 20px;
+}
+
+.body{
+    width:40%;
+}
+
+.list{
+    margin: 10px 20px 20px;
+}
+
+.moji{
+    text-align: center;
+}
